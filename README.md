@@ -1,5 +1,6 @@
 # belajar-squash
-commit ke 2
-commit ke 3
-commit ke 4
-commit ke 5
+> commit ke 2
+> commit ke 3
+> commit ke 4
+> commit ke 5
+> commit ke 6
